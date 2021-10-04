@@ -1,1 +1,2 @@
 # lights-out
+Lights Out consists of ann×n-grid of cells, each of which can be either on or off.  When the game begins, we specify an initial configuration of on and offcells. Lights Out is a one-player game. Once the cells are configured, the player chooses a cell and turns it on if it is off, andoff if it is on.  In response the four neighbouring cells (to the north, south, east, and west) all switch configurations betweenoff and on as well. The object of the game is to get all of the cells turned off.
